@@ -6,4 +6,4 @@
 ![img1](https://github.com/ztor2/friendli-ai-hackathon/assets/57743113/79717994-be4c-4a7b-b984-ceeaba5955b7)
 
 - 해당 프로젝트를 오픈소스로 변경하여 demo로 제작한 링크는 아래와 같습니다.
-- HuggingFace Spaces: [!https://huggingface.co/spaces/ztor2/multimodal_rag_chat](https://huggingface.co/spaces/ztor2/multimodal_rag_chat)
+- HuggingFace Spaces: [https://huggingface.co/spaces/ztor2/multimodal_rag_chat](https://huggingface.co/spaces/ztor2/multimodal_rag_chat)
